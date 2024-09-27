@@ -45,4 +45,4 @@ const exitHandler = () => {
   process.on('uncaughtException', unexpectedErrorHandler);
   process.on('unhandledRejection', unexpectedErrorHandler);
 
-  export const handler = server;
+  //export const handler = server;
