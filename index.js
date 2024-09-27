@@ -44,5 +44,5 @@ const exitHandler = () => {
 
   process.on('uncaughtException', unexpectedErrorHandler);
   process.on('unhandledRejection', unexpectedErrorHandler);
-  
-  
+
+ // export const handler = app;
