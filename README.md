@@ -1,1 +1,1 @@
-# Node-Express-Mongo-Auth
+# Node-Express-Mongo-Authentication
